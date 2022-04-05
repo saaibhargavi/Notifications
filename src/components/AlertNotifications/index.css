@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.success-icon {
+  color: green;
+  size: 20px;
+}
+.app-container {
+  height: 25px;
+  width: 150px;
+}
+.success-heading {
+  color: green;
+  font-size: 18px;
+  padding-bottom: 12px;
+}
+.success-para {
+  font-size: 18px;
+  color: #64748b;
+}
